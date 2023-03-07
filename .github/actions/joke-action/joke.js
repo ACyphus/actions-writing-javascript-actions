@@ -4,7 +4,7 @@ const options = {
     method: 'GET',
     uri: 'https://icanhazdadjoke.com/',
     headers: {
-        'Accept': 'application/json'
+        'Accept': 'application/json',
         'User-Agent': 
             'Writing JavaScript action GitHub Skills course.'
     },
